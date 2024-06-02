@@ -7,7 +7,7 @@
 
 I’m looking to collaborate on data analysis
 
-Certifications:
+##Certifications:
 
 ![Unsupervised Learning](https://github.com/Nchadha12/Nchadha12/assets/168663644/34cbddb7-667c-432a-80a1-54dcfb875153)
 ![Supervised Learning](https://github.com/Nchadha12/Nchadha12/assets/168663644/4c7426cd-008a-4cb8-a8da-f459929e6c7c)
